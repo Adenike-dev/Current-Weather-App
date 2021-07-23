@@ -23,6 +23,13 @@ li {
   line-height: 1;
   list-style: none;
 }
+a {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+        }
 
 .weather-app {
   border: 1px solid #dadde1;
